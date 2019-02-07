@@ -1,0 +1,12 @@
+<h3><%= @question.body %> (<%= @question_number %>/<%= @question_count%>)</h3>
+<br>
+<form method="POST" action="/submit_answer">
+    <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
+    <% @question.answers.each do |answer| %>
+        <input type="radio" style="text-align: left;" name="answer_id" value="<%= answer.id %>"/>
+        <%= answer.body %></div>
+        <br>
+    <% end %>
+    <hr style="max-width: 400px;">
+    <input type="submit"/>
+</form>

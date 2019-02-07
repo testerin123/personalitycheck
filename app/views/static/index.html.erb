@@ -1,0 +1,6 @@
+<form method="POST">
+    <%# Create a token to authenticate the request %>
+    <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
+    <input type="text" name="user_name" placeholder="Enter your name"/>
+    <input type="submit" value="Enter">
+</form>
