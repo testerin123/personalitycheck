@@ -9,8 +9,10 @@
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
-  <body style="text-align: center;">
-    <%= image_tag('index') %><br>
-    <%= yield %>
+  <body>
+    <div class='something'>
+      <a href='/'><%= image_tag('index.png', style: 'border-radius: 10px; margin: 5px;') %></a>
+      <%= yield %>
+    </div>
   </body>
 </html>

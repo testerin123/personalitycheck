@@ -53,42 +53,42 @@ questions_and_answers = {
   "Wie reagieren Sie, wenn sie für längere Zeit in einer Einkaufsschlange stehen müssen?" => [
     "Ich schätze die Länge der Wartedauer ein, habe ich keine Zeit, werde ich die Schlange verlassen",
     "Ich warte geduldig, bis ich an der Reihe bin",
-    "ich bin genervt und bekomme schlechte Laune",
+    "Ich bin genervt und bekomme schlechte Laune",
     "Ich komme mit der Person vor mir ins Gespräch"
   ],
-  "Welche Eigenschaft trifft am meisten auf Sie zu?" => %w[gesprächig teamfähig willensstark dominant],
+  "Welche Eigenschaft trifft am meisten auf Sie zu?" => %w[Gesprächig Teamfähig Willensstark Dominant],
   "Wie verhalten Sie sich bei einer Gruppenarbeit?" => [
     "Ich beteilige mich",
     "Ich bringe mich aktiv ein und teile zu allem meine Meinung",
-    "ich liebe Gruppenarbeiten, denn da kann ich mich mit anderen austauschen",
+    "Ich liebe Gruppenarbeiten, denn da kann ich mich mit anderen austauschen",
     "Ich höre erstmal zu was die anderen zu sagen haben und weise die anderen darauf hin, falls wir vom Weg abkommen"
   ],
   "Wie verhalten Sie sich im Restaurant?" => [
-    "wenn ich Gerichte kenne, empfehle ich sie anderen",
-    "ich weiß schon was ich essen will",
-    "ich frage den Kellner immer was er mir empfehlen kann",
-    "ich brauche immer eine Weile, da ich mir die Karte immer komplett anschaue"
+    "Wenn ich Gerichte kenne, empfehle ich sie anderen",
+    "Ich weiß schon was ich essen will",
+    "Ich frage den Kellner immer was er mir empfehlen kann",
+    "Ich brauche immer eine Weile, da ich mir die Karte immer komplett anschaue"
   ],
   "Wovor haben sie am meisten Angst?" => [
     "Beziehungen zu zerstören",
     "Fehler zu machen",
-    "die Motivation zu verlieren",
+    "Die Motivation zu verlieren",
     "Risiken einzugehen"
   ],
   "Sie arbeiten gerne in einem Team zusammen?" => [
     "Ja, wenn ich anderen dabei helfe",
-    "nur wenn ich den Ton angeben kann",
-    "ja, total gerne",
-    "eher ungern. Ich kann alleine alles besser planen und koordinieren"
+    "Nur wenn ich den Ton angeben kann",
+    "Ja, total gerne",
+    "Eher ungern. Ich kann alleine alles besser planen und koordinieren"
   ],
   "Entweder oder: Es ist Montagmorgen und sie beantworten lieber so schnell wie möglich ihre E-Mails oder trinken erstmal in Ruhe einen Kaffee und plaudern mit Kollegen" => [
-    "ich schaue erstmal, ob ich eine wichtige E-Mail beantworten muss. Wenn das der Fall ist, mache ich das natürlich zuerst und trinke dann in Ruhe mit Kollegen einen Kaffee",
-    "ich plauder gerne am Montagmorgen mit meinen Kollegen um ihnen von meinem Wochenende zu erzählen",
+    "Ich schaue erstmal, ob ich eine wichtige E-Mail beantworten muss. Wenn das der Fall ist, mache ich das natürlich zuerst und trinke dann in Ruhe mit Kollegen einen Kaffee",
+    "Ich plauder gerne am Montagmorgen mit meinen Kollegen um ihnen von meinem Wochenende zu erzählen",
     "Wenn ich morgens ankomme, plauder ich gerne mit meinen Kollegen um mehr von ihnen zu erfahren",
-    "ich beantworte meine E-Mails so schnell wie möglich"
+    "Ich beantworte meine E-Mails so schnell wie möglich"
   ],
   "Sie initiieren normalerweise keine Gespräche" => [
-    "normalerweise nicht, es sei denn mir ist etwas wichtig, was ich dann natürlich mitteile",
+    "Normalerweise nicht, es sei denn mir ist etwas wichtig, was ich dann natürlich mitteile",
     "Stimme ich nicht zu",
     "Stimme ich zu",
     "Es kommt auf das Gespräch drauf an. Wenn es für mich wichtig erscheint, dann ja"
@@ -100,40 +100,40 @@ questions_and_answers = {
     "Selten"
   ],
   "Eine Debatte zu gewinnen ist für Sie weniger wichtig als dafür zu sorgen, dass sich niemand aufregt" => [
-    "stimme ich nicht zu",
-    "stimme ich zu",
-    "stimme ich eher nicht zu",
-    "stimme ich eher zu"
+    "Stimme ich nicht zu",
+    "Stimme ich zu",
+    "Stimme ich eher nicht zu",
+    "Stimme ich eher zu"
   ],
   "Organisation ist für Sie wichtiger als Anpassungsfähigkeit" => [
-    "stimme ich nicht zu",
-    "stimme ich eher nicht zu",
-    "stimme ich eher zu",
-    "stimme ich zu"
+    "Stimme ich nicht zu",
+    "Stimme ich eher nicht zu",
+    "Stimme ich eher zu",
+    "Stimme ich zu"
   ],
   "Sie haben nichts dagegen im Mittelpunkt der Aufmerksamkeit zu stehen" => [
-    "ich habe nichts dagegen, muss aber nicht sein",
-    "nein, ich habe nichts dagegen im Mittelpunkt zu stehen, tue es sogar gerne",
-    "ich habe nichts dagegen, wenn ich ab und zu mal im Mittelpunkt stehe",
-    "ich betrachte lieber die Situation von außerhalb"
+    "Ich habe nichts dagegen, muss aber nicht sein",
+    "Nein, ich habe nichts dagegen im Mittelpunkt zu stehen, tue es sogar gerne",
+    "Ich habe nichts dagegen, wenn ich ab und zu mal im Mittelpunkt stehe",
+    "Ich betrachte lieber die Situation von außerhalb"
   ],
   "Es ist oft schwierig für Sie auf die Gefühle anderer Menschen einzugehen" => [
-    "stimme ich nicht zu",
-    "stimme ich zu",
-    "nein, ich kann immer über Gefühle sprechen",
-    "nicht oft aber manchmal"
+    "Stimme ich nicht zu",
+    "Stimme ich zu",
+    "Nein, ich kann immer über Gefühle sprechen",
+    "Nicht oft aber manchmal"
   ],
   "In einer Diskussion sollte die Wahrheit wichtiger sein als die Sensibilität der Menschen" => [
-    "ich führe ungern Diskussionen",
-    "ja",
-    "ich versuche mehr auf die Sensibilität der Menschen einzugehen",
-    "ich würde sagen ja"
+    "Ich führe ungern Diskussionen",
+    "Ja",
+    "Ich versuche mehr auf die Sensibilität der Menschen einzugehen",
+    "Ich würde sagen ja"
   ],
   "Sie sind oft neidisch auf Andere" => [
-    "nein",
-    "öfters ja",
-    "sehr selten",
-    "ich ertappe mich manchmal dabei"
+    "Nein",
+    "Öfters ja",
+    "Sehr selten",
+    "Ich ertappe mich manchmal dabei"
   ]
 }
 
@@ -145,8 +145,27 @@ questions_and_answers.each do |question, answers|
   third_answer = answers[2]
   fourth_answer = answers[3]
 
-  Answer.create(body: first_answer, question_id: question.id, personality_id: @stetiger.id)
-  Answer.create(body: second_answer, question_id: question.id, personality_id: @dominant.id)
-  Answer.create(body: third_answer, question_id: question.id, personality_id: @sozial_initiativ.id)
-  Answer.create(body: fourth_answer, question_id: question.id, personality_id: @gewissenhaft.id)
+  Answer.create(
+    body: first_answer,
+    question_id: question.id,
+    personality_id: @stetiger.id
+  )
+
+  Answer.create(
+    body: second_answer,
+    question_id: question.id,
+    personality_id: @dominant.id
+  )
+
+  Answer.create(
+    body: third_answer,
+    question_id: question.id,
+    personality_id: @sozial_initiativ.id
+  )
+
+  Answer.create(
+    body: fourth_answer,
+    question_id: question.id,
+    personality_id: @gewissenhaft.id
+  )
 end
